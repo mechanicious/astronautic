@@ -1,0 +1,26 @@
+ul.page-background {
+list-style: none;
+margin: 0;
+padding: 0;
+position: absolute;
+overflow: hidden;
+max-height: 100%;
+}
+
+.page-background li {
+  display: inline-block;
+  color: #F4F2F2;
+  transition: all 1s ease-in;
+}
+
+.inline-icon::before {
+  margin-left: 0;
+}
+
+h1 {
+  word-wrap: break-word;
+}
+
+h1 i::before {
+  font-size: 64px !important;
+}

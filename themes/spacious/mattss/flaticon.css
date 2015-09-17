@@ -1,0 +1,307 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-abduction:before {
+	content: "\e000";
+}
+.flaticon-alien13:before {
+	content: "\e001";
+}
+.flaticon-alien6:before {
+	content: "\e002";
+}
+.flaticon-android:before {
+	content: "\e003";
+}
+.flaticon-artificial:before {
+	content: "\e004";
+}
+.flaticon-astronaut5:before {
+	content: "\e005";
+}
+.flaticon-astronaut6:before {
+	content: "\e006";
+}
+.flaticon-atom1:before {
+	content: "\e007";
+}
+.flaticon-atom13:before {
+	content: "\e008";
+}
+.flaticon-atom19:before {
+	content: "\e009";
+}
+.flaticon-award47:before {
+	content: "\e00a";
+}
+.flaticon-baby92:before {
+	content: "\e00b";
+}
+.flaticon-beaker4:before {
+	content: "\e00c";
+}
+.flaticon-birthday5:before {
+	content: "\e00d";
+}
+.flaticon-black406:before {
+	content: "\e00e";
+}
+.flaticon-bomb:before {
+	content: "\e00f";
+}
+.flaticon-bomb7:before {
+	content: "\e010";
+}
+.flaticon-bookmark45:before {
+	content: "\e011";
+}
+.flaticon-boom2:before {
+	content: "\e012";
+}
+.flaticon-boom3:before {
+	content: "\e013";
+}
+.flaticon-bug16:before {
+	content: "\e014";
+}
+.flaticon-business122:before {
+	content: "\e015";
+}
+.flaticon-camera71:before {
+	content: "\e016";
+}
+.flaticon-chemistry1:before {
+	content: "\e017";
+}
+.flaticon-christmas131:before {
+	content: "\e018";
+}
+.flaticon-compass46:before {
+	content: "\e019";
+}
+.flaticon-darth:before {
+	content: "\e01a";
+}
+.flaticon-disapprove1:before {
+	content: "\e01b";
+}
+.flaticon-earth38:before {
+	content: "\e01c";
+}
+.flaticon-eco21:before {
+	content: "\e01d";
+}
+.flaticon-emoticon85:before {
+	content: "\e01e";
+}
+.flaticon-explosion:before {
+	content: "\e01f";
+}
+.flaticon-flag41:before {
+	content: "\e020";
+}
+.flaticon-green6:before {
+	content: "\e021";
+}
+.flaticon-grenade1:before {
+	content: "\e022";
+}
+.flaticon-halloween236:before {
+	content: "\e023";
+}
+.flaticon-head13:before {
+	content: "\e024";
+}
+.flaticon-heart124:before {
+	content: "\e025";
+}
+.flaticon-infinite3:before {
+	content: "\e026";
+}
+.flaticon-information57:before {
+	content: "\e027";
+}
+.flaticon-insect7:before {
+	content: "\e028";
+}
+.flaticon-lab2:before {
+	content: "\e029";
+}
+.flaticon-little27:before {
+	content: "\e02a";
+}
+.flaticon-loop8:before {
+	content: "\e02b";
+}
+.flaticon-man67:before {
+	content: "\e02c";
+}
+.flaticon-medal45:before {
+	content: "\e02d";
+}
+.flaticon-microscope13:before {
+	content: "\e02e";
+}
+.flaticon-microscope4:before {
+	content: "\e02f";
+}
+.flaticon-military12:before {
+	content: "\e030";
+}
+.flaticon-moon13:before {
+	content: "\e031";
+}
+.flaticon-moon51:before {
+	content: "\e032";
+}
+.flaticon-night13:before {
+	content: "\e033";
+}
+.flaticon-o2:before {
+	content: "\e034";
+}
+.flaticon-open160:before {
+	content: "\e035";
+}
+.flaticon-oxygen2:before {
+	content: "\e036";
+}
+.flaticon-parabolic8:before {
+	content: "\e037";
+}
+.flaticon-planet19:before {
+	content: "\e038";
+}
+.flaticon-planet2:before {
+	content: "\e039";
+}
+.flaticon-robot18:before {
+	content: "\e03a";
+}
+.flaticon-robot2:before {
+	content: "\e03b";
+}
+.flaticon-robot5:before {
+	content: "\e03c";
+}
+.flaticon-robot9:before {
+	content: "\e03d";
+}
+.flaticon-rocket12:before {
+	content: "\e03e";
+}
+.flaticon-rocket19:before {
+	content: "\e03f";
+}
+.flaticon-rocket60:before {
+	content: "\e040";
+}
+.flaticon-rocket61:before {
+	content: "\e041";
+}
+.flaticon-roving:before {
+	content: "\e042";
+}
+.flaticon-sad38:before {
+	content: "\e043";
+}
+.flaticon-satellite14:before {
+	content: "\e044";
+}
+.flaticon-satellites:before {
+	content: "\e045";
+}
+.flaticon-saturn1:before {
+	content: "\e046";
+}
+.flaticon-saturn11:before {
+	content: "\e047";
+}
+.flaticon-saturn7:before {
+	content: "\e048";
+}
+.flaticon-see1:before {
+	content: "\e049";
+}
+.flaticon-seven3:before {
+	content: "\e04a";
+}
+.flaticon-solar16:before {
+	content: "\e04b";
+}
+.flaticon-space22:before {
+	content: "\e04c";
+}
+.flaticon-space34:before {
+	content: "\e04d";
+}
+.flaticon-stars4:before {
+	content: "\e04e";
+}
+.flaticon-starwars11:before {
+	content: "\e04f";
+}
+.flaticon-starwars3:before {
+	content: "\e050";
+}
+.flaticon-starwars8:before {
+	content: "\e051";
+}
+.flaticon-starwars9:before {
+	content: "\e052";
+}
+.flaticon-stink:before {
+	content: "\e053";
+}
+.flaticon-students17:before {
+	content: "\e054";
+}
+.flaticon-sun70:before {
+	content: "\e055";
+}
+.flaticon-telescope:before {
+	content: "\e056";
+}
+.flaticon-telescope7:before {
+	content: "\e057";
+}
+.flaticon-the4:before {
+	content: "\e058";
+}
+.flaticon-three115:before {
+	content: "\e059";
+}
+.flaticon-trophy53:before {
+	content: "\e05a";
+}
+.flaticon-uneclipsed:before {
+	content: "\e05b";
+}
+.flaticon-warning30:before {
+	content: "\e05c";
+}
+.flaticon-web27:before {
+	content: "\e05d";
+}
+.flaticon-winners2:before {
+	content: "\e05e";
+}
+.flaticon-wizards:before {
+	content: "\e05f";
+}
+.flaticon-yoda:before {
+	content: "\e060";
+}

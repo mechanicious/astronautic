@@ -1,0 +1,1801 @@
+[
+  {
+    "abbr": "H",
+    "elconfig": [
+      "1"
+    ],
+    "fase": "g",
+    "name": "Waterstof",
+    "proton": "1",
+    "type": "Nonmetal",
+    "weight": "1,008"
+  },
+  {
+    "abbr": "He",
+    "elconfig": [
+      "2"
+    ],
+    "fase": "g",
+    "name": "Helium",
+    "proton": "2",
+    "type": "Noble",
+    "weight": "4,002602"
+  },
+  {
+    "abbr": "Li",
+    "elconfig": [
+      "2",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Lithium",
+    "proton": "3",
+    "type": "Alkali",
+    "weight": "6,94"
+  },
+  {
+    "abbr": "Be",
+    "elconfig": [
+      "2",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Beryllium",
+    "proton": "4",
+    "type": "Alkaline",
+    "weight": "9,0121831"
+  },
+  {
+    "abbr": "B",
+    "elconfig": [
+      "2",
+      "3"
+    ],
+    "fase": "s",
+    "name": "Boor",
+    "proton": "5",
+    "type": "Metalloid",
+    "weight": "10,81"
+  },
+  {
+    "abbr": "C",
+    "elconfig": [
+      "2",
+      "4"
+    ],
+    "fase": "s",
+    "name": "Koolstof",
+    "proton": "6",
+    "type": "Nonmetal",
+    "weight": "12,011"
+  },
+  {
+    "abbr": "N",
+    "elconfig": [
+      "2",
+      "5"
+    ],
+    "fase": "g",
+    "name": "Stikstof",
+    "proton": "7",
+    "type": "Nonmetal",
+    "weight": "14,007"
+  },
+  {
+    "abbr": "O",
+    "elconfig": [
+      "2",
+      "6"
+    ],
+    "fase": "g",
+    "name": "Zuurstof",
+    "proton": "8",
+    "type": "Nonmetal",
+    "weight": "15,999"
+  },
+  {
+    "abbr": "F",
+    "elconfig": [
+      "2",
+      "7"
+    ],
+    "fase": "g",
+    "name": "Fluor",
+    "proton": "9",
+    "type": "Halogen",
+    "weight": "18,998403163"
+  },
+  {
+    "abbr": "Ne",
+    "elconfig": [
+      "2",
+      "8"
+    ],
+    "fase": "g",
+    "name": "Neon",
+    "proton": "10",
+    "type": "Noble",
+    "weight": "20,1797"
+  },
+  {
+    "abbr": "Na",
+    "elconfig": [
+      "2",
+      "8",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Natrium",
+    "proton": "11",
+    "type": "Alkali",
+    "weight": "22,98976928"
+  },
+  {
+    "abbr": "Mg",
+    "elconfig": [
+      "2",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Magnesium",
+    "proton": "12",
+    "type": "Alkaline",
+    "weight": "24,305"
+  },
+  {
+    "abbr": "Al",
+    "elconfig": [
+      "2",
+      "8",
+      "3"
+    ],
+    "fase": "s",
+    "name": "Aluminium",
+    "proton": "13",
+    "type": "Poor",
+    "weight": "26,9815385"
+  },
+  {
+    "abbr": "Si",
+    "elconfig": [
+      "2",
+      "8",
+      "4"
+    ],
+    "fase": "s",
+    "name": "Silicium",
+    "proton": "14",
+    "type": "Metalloid",
+    "weight": "28,085"
+  },
+  {
+    "abbr": "P",
+    "elconfig": [
+      "2",
+      "8",
+      "5"
+    ],
+    "fase": "s",
+    "name": "Fosfor",
+    "proton": "15",
+    "type": "Nonmetal",
+    "weight": "30,973761998"
+  },
+  {
+    "abbr": "S",
+    "elconfig": [
+      "2",
+      "8",
+      "6"
+    ],
+    "fase": "s",
+    "name": "Zwavel",
+    "proton": "16",
+    "type": "Nonmetal",
+    "weight": "32,06"
+  },
+  {
+    "abbr": "Cl",
+    "elconfig": [
+      "2",
+      "8",
+      "7"
+    ],
+    "fase": "g",
+    "name": "Chloor",
+    "proton": "17",
+    "type": "Halogen",
+    "weight": "35,45"
+  },
+  {
+    "abbr": "Ar",
+    "elconfig": [
+      "2",
+      "8",
+      "8"
+    ],
+    "fase": "g",
+    "name": "Argon",
+    "proton": "18",
+    "type": "Noble",
+    "weight": "39,948"
+  },
+  {
+    "abbr": "K",
+    "elconfig": [
+      "2",
+      "8",
+      "8",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Kalium",
+    "proton": "19",
+    "type": "Alkali",
+    "weight": "39,0983"
+  },
+  {
+    "abbr": "Ca",
+    "elconfig": [
+      "2",
+      "8",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Calcium",
+    "proton": "20",
+    "type": "Alkaline",
+    "weight": "40,078"
+  },
+  {
+    "abbr": "Sc",
+    "elconfig": [
+      "2",
+      "8",
+      "9",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Scandium",
+    "proton": "21",
+    "type": "Transition",
+    "weight": "44,955908"
+  },
+  {
+    "abbr": "Ti",
+    "elconfig": [
+      "2",
+      "8",
+      "10",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Titanium",
+    "proton": "22",
+    "type": "Transition",
+    "weight": "47,867"
+  },
+  {
+    "abbr": "V",
+    "elconfig": [
+      "2",
+      "8",
+      "11",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Vanadium",
+    "proton": "23",
+    "type": "Transition",
+    "weight": "50,9415"
+  },
+  {
+    "abbr": "Cr",
+    "elconfig": [
+      "2",
+      "8",
+      "13",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Chroom",
+    "proton": "24",
+    "type": "Transition",
+    "weight": "51,9961"
+  },
+  {
+    "abbr": "Mn",
+    "elconfig": [
+      "2",
+      "8",
+      "13",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Mangaan",
+    "proton": "25",
+    "type": "Transition",
+    "weight": "54,938044"
+  },
+  {
+    "abbr": "Fe",
+    "elconfig": [
+      "2",
+      "8",
+      "14",
+      "2"
+    ],
+    "fase": "s",
+    "name": "IJzer",
+    "proton": "26",
+    "type": "Transition",
+    "weight": "55,845"
+  },
+  {
+    "abbr": "Co",
+    "elconfig": [
+      "2",
+      "8",
+      "15",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Kobalt",
+    "proton": "27",
+    "type": "Transition",
+    "weight": "58,933194"
+  },
+  {
+    "abbr": "Ni",
+    "elconfig": [
+      "2",
+      "8",
+      "16",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Nikkel",
+    "proton": "28",
+    "type": "Transition",
+    "weight": "58,6934"
+  },
+  {
+    "abbr": "Cu",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Koper",
+    "proton": "29",
+    "type": "Transition",
+    "weight": "63,546"
+  },
+  {
+    "abbr": "Zn",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Zink",
+    "proton": "30",
+    "type": "Transition",
+    "weight": "65,38"
+  },
+  {
+    "abbr": "Ga",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "3"
+    ],
+    "fase": "s",
+    "name": "Gallium",
+    "proton": "31",
+    "type": "Poor",
+    "weight": "69,723"
+  },
+  {
+    "abbr": "Ge",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "4"
+    ],
+    "fase": "s",
+    "name": "Germanium",
+    "proton": "32",
+    "type": "Metalloid",
+    "weight": "72,63"
+  },
+  {
+    "abbr": "As",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "5"
+    ],
+    "fase": "s",
+    "name": "Arseen",
+    "proton": "33",
+    "type": "Metalloid",
+    "weight": "74,921595"
+  },
+  {
+    "abbr": "Se",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "6"
+    ],
+    "fase": "s",
+    "name": "Seleen",
+    "proton": "34",
+    "type": "Nonmetal",
+    "weight": "78,971"
+  },
+  {
+    "abbr": "Br",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "7"
+    ],
+    "fase": "l",
+    "name": "Broom",
+    "proton": "35",
+    "type": "Halogen",
+    "weight": "79,904"
+  },
+  {
+    "abbr": "Kr",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "8"
+    ],
+    "fase": "g",
+    "name": "Krypton",
+    "proton": "36",
+    "type": "Noble",
+    "weight": "83,798"
+  },
+  {
+    "abbr": "Rb",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "8",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Rubidium",
+    "proton": "37",
+    "type": "Alkali",
+    "weight": "85,4678"
+  },
+  {
+    "abbr": "Sr",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Strontium",
+    "proton": "38",
+    "type": "Alkaline",
+    "weight": "87,62"
+  },
+  {
+    "abbr": "Y",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "9",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Yttrium",
+    "proton": "39",
+    "type": "Transition",
+    "weight": "88,90584"
+  },
+  {
+    "abbr": "Zr",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "10",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Zirkonium",
+    "proton": "40",
+    "type": "Transition",
+    "weight": "91,224"
+  },
+  {
+    "abbr": "Nb",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "12",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Niobium",
+    "proton": "41",
+    "type": "Transition",
+    "weight": "92,90637"
+  },
+  {
+    "abbr": "Mo",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "13",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Molybdeen",
+    "proton": "42",
+    "type": "Transition",
+    "weight": "95,95"
+  },
+  {
+    "abbr": "Tc",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "13",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Technetium",
+    "proton": "43",
+    "type": "Transition",
+    "weight": "(98)"
+  },
+  {
+    "abbr": "Ru",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "15",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Ruthenium",
+    "proton": "44",
+    "type": "Transition",
+    "weight": "101,07"
+  },
+  {
+    "abbr": "Rh",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "16",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Rhodium",
+    "proton": "45",
+    "type": "Transition",
+    "weight": "102,90550"
+  },
+  {
+    "abbr": "Pd",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18"
+    ],
+    "fase": "s",
+    "name": "Palladium",
+    "proton": "46",
+    "type": "Transition",
+    "weight": "106,42"
+  },
+  {
+    "abbr": "Ag",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Zilver",
+    "proton": "47",
+    "type": "Transition",
+    "weight": "107,8682"
+  },
+  {
+    "abbr": "Cd",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Cadmium",
+    "proton": "48",
+    "type": "Transition",
+    "weight": "112,414"
+  },
+  {
+    "abbr": "In",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18",
+      "3"
+    ],
+    "fase": "s",
+    "name": "Indium",
+    "proton": "49",
+    "type": "Poor",
+    "weight": "114,818"
+  },
+  {
+    "abbr": "Sn",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18",
+      "4"
+    ],
+    "fase": "s",
+    "name": "Tin",
+    "proton": "50",
+    "type": "Poor",
+    "weight": "118,710"
+  },
+  {
+    "abbr": "Sb",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18",
+      "5"
+    ],
+    "fase": "s",
+    "name": "Antimoon",
+    "proton": "51",
+    "type": "Metalloid",
+    "weight": "121,760"
+  },
+  {
+    "abbr": "Te",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18",
+      "6"
+    ],
+    "fase": "s",
+    "name": "Telluur",
+    "proton": "52",
+    "type": "Metalloid",
+    "weight": "127,60"
+  },
+  {
+    "abbr": "I",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18",
+      "7"
+    ],
+    "fase": "s",
+    "name": "Jodium",
+    "proton": "53",
+    "type": "Halogen",
+    "weight": "126,90447"
+  },
+  {
+    "abbr": "Xe",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18",
+      "8"
+    ],
+    "fase": "g",
+    "name": "Xenon",
+    "proton": "54",
+    "type": "Noble",
+    "weight": "131,293"
+  },
+  {
+    "abbr": "Cs",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18",
+      "8",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Cesium",
+    "proton": "55",
+    "type": "Alkali",
+    "weight": "132,90545196"
+  },
+  {
+    "abbr": "Ba",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Barium",
+    "proton": "56",
+    "type": "Alkaline",
+    "weight": "137,327"
+  },
+  {
+    "abbr": "Hf",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "10",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Hafnium",
+    "proton": "72",
+    "type": "Transition",
+    "weight": "178,49"
+  },
+  {
+    "abbr": "Ta",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "11",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Tantaal",
+    "proton": "73",
+    "type": "Transition",
+    "weight": "180,94788"
+  },
+  {
+    "abbr": "W",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "12",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Wolfraam",
+    "proton": "74",
+    "type": "Transition",
+    "weight": "183,84"
+  },
+  {
+    "abbr": "Re",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "13",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Renium",
+    "proton": "75",
+    "type": "Transition",
+    "weight": "186,207"
+  },
+  {
+    "abbr": "Os",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "14",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Osmium",
+    "proton": "76",
+    "type": "Transition",
+    "weight": "190,23"
+  },
+  {
+    "abbr": "Ir",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "15",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Iridium",
+    "proton": "77",
+    "type": "Transition",
+    "weight": "192,217"
+  },
+  {
+    "abbr": "Pt",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "17",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Platina",
+    "proton": "78",
+    "type": "Transition",
+    "weight": "195,084"
+  },
+  {
+    "abbr": "Au",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Goud",
+    "proton": "79",
+    "type": "Transition",
+    "weight": "196,966569"
+  },
+  {
+    "abbr": "Hg",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "2"
+    ],
+    "fase": "l",
+    "name": "Kwik",
+    "proton": "80",
+    "type": "Transition",
+    "weight": "200,59"
+  },
+  {
+    "abbr": "Tl",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "3"
+    ],
+    "fase": "s",
+    "name": "Thallium",
+    "proton": "81",
+    "type": "Poor",
+    "weight": "204,38"
+  },
+  {
+    "abbr": "Pb",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "4"
+    ],
+    "fase": "s",
+    "name": "Lood",
+    "proton": "82",
+    "type": "Poor",
+    "weight": "207,2"
+  },
+  {
+    "abbr": "Bi",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "5"
+    ],
+    "fase": "s",
+    "name": "Bismut",
+    "proton": "83",
+    "type": "Poor",
+    "weight": "208,98040"
+  },
+  {
+    "abbr": "Po",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "6"
+    ],
+    "fase": "s",
+    "name": "Polonium",
+    "proton": "84",
+    "type": "Metalloid",
+    "weight": "(209)"
+  },
+  {
+    "abbr": "At",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "7"
+    ],
+    "fase": "s",
+    "name": "Astaat",
+    "proton": "85",
+    "type": "Halogen",
+    "weight": "(210)"
+  },
+  {
+    "abbr": "Rn",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "8"
+    ],
+    "fase": "g",
+    "name": "Radon",
+    "proton": "86",
+    "type": "Noble",
+    "weight": "(222)"
+  },
+  {
+    "abbr": "Fr",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "8",
+      "1"
+    ],
+    "fase": "s",
+    "name": "Francium",
+    "proton": "87",
+    "type": "Alkali",
+    "weight": "(223)"
+  },
+  {
+    "abbr": "Ra",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Radium",
+    "proton": "88",
+    "type": "Alkaline",
+    "weight": "(226)"
+  },
+  {
+    "abbr": "Rf",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "10",
+      "2"
+    ],
+    "fase": "onbekend",
+    "name": "Rutherfordium",
+    "proton": "104",
+    "type": "Transition",
+    "weight": "(267)"
+  },
+  {
+    "abbr": "Db",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "11",
+      "2"
+    ],
+    "fase": "onbekend",
+    "name": "Dubnium",
+    "proton": "105",
+    "type": "Transition",
+    "weight": "(268)"
+  },
+  {
+    "abbr": "Sg",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "12",
+      "2"
+    ],
+    "fase": "onbekend",
+    "name": "Seaborgium",
+    "proton": "106",
+    "type": "Transition",
+    "weight": "(271)"
+  },
+  {
+    "abbr": "Bh",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "13",
+      "2"
+    ],
+    "fase": "onbekend",
+    "name": "Bohrium",
+    "proton": "107",
+    "type": "Transition",
+    "weight": "(272)"
+  },
+  {
+    "abbr": "Hs",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "14",
+      "2"
+    ],
+    "fase": "onbekend",
+    "name": "Hassium",
+    "proton": "108",
+    "type": "Transition",
+    "weight": "(270)"
+  },
+  {
+    "abbr": "Mt",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "15",
+      "2"
+    ],
+    "fase": "onbekend",
+    "name": "Meitnerium",
+    "proton": "109",
+    "type": "Transition",
+    "weight": "(276)"
+  },
+  {
+    "abbr": "Ds",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "17",
+      "1"
+    ],
+    "fase": "onbekend",
+    "name": "Darmstadtium",
+    "proton": "110",
+    "type": "Transition",
+    "weight": "(281)"
+  },
+  {
+    "abbr": "Rg",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "18",
+      "1"
+    ],
+    "fase": "onbekend",
+    "name": "Roentgenium",
+    "proton": "111",
+    "type": "Transition",
+    "weight": "(280)"
+  },
+  {
+    "abbr": "Cn",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "18",
+      "2"
+    ],
+    "fase": "onbekend",
+    "name": "Copernicium",
+    "proton": "112",
+    "type": "Transition",
+    "weight": "(285)"
+  },
+  {
+    "abbr": "Uut",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "18",
+      "3"
+    ],
+    "fase": "onbekend",
+    "name": "Ununtrium",
+    "proton": "113",
+    "type": "Poor",
+    "weight": "(284)"
+  },
+  {
+    "abbr": "Fl",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "18",
+      "4"
+    ],
+    "fase": "onbekend",
+    "name": "Flerovium",
+    "proton": "114",
+    "type": "Poor",
+    "weight": "(289)"
+  },
+  {
+    "abbr": "Uup",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "18",
+      "5"
+    ],
+    "fase": "onbekend",
+    "name": "Ununpentium",
+    "proton": "115",
+    "type": "Poor",
+    "weight": "(288)"
+  },
+  {
+    "abbr": "Lv",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "18",
+      "6"
+    ],
+    "fase": "onbekend",
+    "name": "Livermorium",
+    "proton": "116",
+    "type": "Poor",
+    "weight": "(293)"
+  },
+  {
+    "abbr": "Uus",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "18",
+      "7"
+    ],
+    "fase": "onbekend",
+    "name": "Ununseptium",
+    "proton": "117",
+    "type": "Halogen",
+    "weight": "(294)"
+  },
+  {
+    "abbr": "Uuo",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "18",
+      "8"
+    ],
+    "fase": "onbekend",
+    "name": "Ununoctium",
+    "proton": "118",
+    "type": "Noble",
+    "weight": "(294)"
+  },
+  {
+    "abbr": "La",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "18",
+      "9",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Lanthaan",
+    "proton": "57",
+    "type": "Lanthanoid",
+    "weight": "138,90547"
+  },
+  {
+    "abbr": "Ce",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "19",
+      "9",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Cerium",
+    "proton": "58",
+    "type": "Lanthanoid",
+    "weight": "140,116"
+  },
+  {
+    "abbr": "Pr",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "21",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Praseodymium",
+    "proton": "59",
+    "type": "Lanthanoid",
+    "weight": "140,90766"
+  },
+  {
+    "abbr": "Nd",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "22",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Neodymium",
+    "proton": "60",
+    "type": "Lanthanoid",
+    "weight": "144,242"
+  },
+  {
+    "abbr": "Pm",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "23",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Promethium",
+    "proton": "61",
+    "type": "Lanthanoid",
+    "weight": "(145)"
+  },
+  {
+    "abbr": "Sm",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "24",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Samarium",
+    "proton": "62",
+    "type": "Lanthanoid",
+    "weight": "150,36"
+  },
+  {
+    "abbr": "Eu",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "25",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Europium",
+    "proton": "63",
+    "type": "Lanthanoid",
+    "weight": "151,964"
+  },
+  {
+    "abbr": "Gd",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "25",
+      "9",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Gadolinium",
+    "proton": "64",
+    "type": "Lanthanoid",
+    "weight": "157,25"
+  },
+  {
+    "abbr": "Tb",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "27",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Terbium",
+    "proton": "65",
+    "type": "Lanthanoid",
+    "weight": "158,92535"
+  },
+  {
+    "abbr": "Dy",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "28",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Dysprosium",
+    "proton": "66",
+    "type": "Lanthanoid",
+    "weight": "162,500"
+  },
+  {
+    "abbr": "Ho",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "29",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Holmium",
+    "proton": "67",
+    "type": "Lanthanoid",
+    "weight": "164,93033"
+  },
+  {
+    "abbr": "Er",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "30",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Erbium",
+    "proton": "68",
+    "type": "Lanthanoid",
+    "weight": "167,259"
+  },
+  {
+    "abbr": "Tm",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "31",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Thulium",
+    "proton": "69",
+    "type": "Lanthanoid",
+    "weight": "168,93422"
+  },
+  {
+    "abbr": "Yb",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Ytterbium",
+    "proton": "70",
+    "type": "Lanthanoid",
+    "weight": "173,054"
+  },
+  {
+    "abbr": "Lu",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "9",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Lutetium",
+    "proton": "71",
+    "type": "Lanthanoid",
+    "weight": "174,9668"
+  },
+  {
+    "abbr": "Ac",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "9",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Actinium",
+    "proton": "89",
+    "type": "Actinoid",
+    "weight": "(227)"
+  },
+  {
+    "abbr": "Th",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "18",
+      "10",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Thorium",
+    "proton": "90",
+    "type": "Actinoid",
+    "weight": "232,0377"
+  },
+  {
+    "abbr": "Pa",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "20",
+      "9",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Protactinium",
+    "proton": "91",
+    "type": "Actinoid",
+    "weight": "231,03588"
+  },
+  {
+    "abbr": "U",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "21",
+      "9",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Uranium",
+    "proton": "92",
+    "type": "Actinoid",
+    "weight": "238,02891"
+  },
+  {
+    "abbr": "Np",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "22",
+      "9",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Neptunium",
+    "proton": "93",
+    "type": "Actinoid",
+    "weight": "(237)"
+  },
+  {
+    "abbr": "Pu",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "24",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Plutonium",
+    "proton": "94",
+    "type": "Actinoid",
+    "weight": "(244)"
+  },
+  {
+    "abbr": "Am",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "25",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Americium",
+    "proton": "95",
+    "type": "Actinoid",
+    "weight": "(243)"
+  },
+  {
+    "abbr": "Cm",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "25",
+      "9",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Curium",
+    "proton": "96",
+    "type": "Actinoid",
+    "weight": "(247)"
+  },
+  {
+    "abbr": "Bk",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "27",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Berkelium",
+    "proton": "97",
+    "type": "Actinoid",
+    "weight": "(247)"
+  },
+  {
+    "abbr": "Cf",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "28",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Californium",
+    "proton": "98",
+    "type": "Actinoid",
+    "weight": "(251)"
+  },
+  {
+    "abbr": "Es",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "29",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Einsteinium",
+    "proton": "99",
+    "type": "Actinoid",
+    "weight": "(252)"
+  },
+  {
+    "abbr": "Fm",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "30",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Fermium",
+    "proton": "100",
+    "type": "Actinoid",
+    "weight": "(257)"
+  },
+  {
+    "abbr": "Md",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "31",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Mendelevium",
+    "proton": "101",
+    "type": "Actinoid",
+    "weight": "(258)"
+  },
+  {
+    "abbr": "No",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "8",
+      "2"
+    ],
+    "fase": "s",
+    "name": "Nobelium",
+    "proton": "102",
+    "type": "Actinoid",
+    "weight": "(259)"
+  },
+  {
+    "abbr": "Lr",
+    "elconfig": [
+      "2",
+      "8",
+      "18",
+      "32",
+      "32",
+      "8",
+      "3"
+    ],
+    "fase": "s",
+    "name": "Lawrencium",
+    "proton": "103",
+    "type": "Actinoid",
+    "weight": "(262)"
+  }
+]

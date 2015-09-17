@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Atomic Mind",
+    "desc": "Is aware of all particles known to human kind.",
+    "lvl": 2,
+    "icon": "flaticon-atom19"
+  },
+  {
+    "id": 2,
+    "title": "Engineer",
+    "desc": "Knows what stuff is made of.",
+    "lvl": 2,
+    "icon": "flaticon-microscope4"
+  },
+  {
+    "id": 3,
+    "title": "Equation",
+    "desc": "Is able to identify names of atoms, by their respective abbreviation.",
+    "lvl": 2,
+    "icon": "flaticon-oxygen2"
+  }
+]

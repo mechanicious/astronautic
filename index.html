@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title></title>
+  <!-- App -->
+  <script src="/js/vendor/html.engine.min.js" type="text/javascript"></script>
+  <script src="/bootstrap.js" type="text/javascript"></script>
+  <!-- Theme -->
+  <script>
+  html.styles.render('/themes/spacious/css/bootstrap.min.css')
+  .then('/themes/spacious/css/flatly.css')
+  .then('/themes/spacious/css/matts-space/matts-space.css')
+  .then('/themes/spacious/css/animate.css')
+  .then('/themes/spacious/css/style.css');
+  html.scripts.render('/themes/spacious/js/jquery-2.1.1.min.js')
+  .then('/themes/spacious/js/bootstrap.min.js');
+  </script>
+
+</head>
+<body>
+  <div class="app-container"></div>
+</body>
+</html>

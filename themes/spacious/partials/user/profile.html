@@ -1,0 +1,28 @@
+<div class="row userProfile">
+  <div class="col-md-3 well">
+    <h1><i class="inline-icon flaticon-astronaut6"></i> {{ user.username }}</h1>
+    <ul class="list-group">
+      <li class="list-group-item">
+        <span class="badge">{{ user.points }}</span>
+        <i class="inline-icon flaticon-the4"></i>Points
+      </li>
+      <li class="list-group-item">
+        <span class="badge">{{ user.archievements.count }}</span>
+        <i class="inline-icon flaticon-flag41"></i> Archievements
+      </li>
+      <li class="list-group-item">
+        <span class="badge">{{ user.level }}</span>
+        <i class="inline-icon flaticon-planet19"></i> Level
+      </li>
+    </ul>
+  </div>
+  <div class="col-md-offset-1 col-md-8">
+    <h2>Frame of Fame</h2>
+    <ul class="list-group">
+      <li class="list-group-item">
+        <span class="badge">{{ user.points }}</span>
+        <i class="inline-icon flaticon-the4"></i>Points
+      </li>
+    </ul>
+  </div>
+</div>
