@@ -7,12 +7,12 @@ function PageGuard () {}
 
 PageGuard.prototype.allowAuth = function (callback) {
   var lastLogin = new User().get('lastLogin');
-  if(! new User().isLogged(lastLogin)) return html.navigate('/#user/login');
+  if(! new User().isLogged(lastLogin)) return html.navigate('#user/login');
   return callback();
 }
 
 PageGuard.prototype.allowNotAuth = function (callback) {
   var lastLogin = new User().get('lastLogin');
-  if(new User().isLogged(lastLogin)) return html.navigate('/#user/profile/' + lastLogin);
+  if(new User().isLogged(lastLogin)) return html.navigate('#user/profile/' + lastLogin);
   return callback();
 }

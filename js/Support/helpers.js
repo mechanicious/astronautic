@@ -10,6 +10,10 @@ Array.prototype.base = function() {
   return '/' . this;
 }
 
+function absolute_root_path() {
+  return '/htdocs.old2/';
+}
+
 Array.prototype.getRandom = function(amount) {
   //  discuss at: http://phpjs.org/functions/array_rand/
   // original by: Waldo Malqui Silva

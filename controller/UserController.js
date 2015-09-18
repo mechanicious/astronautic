@@ -11,8 +11,8 @@ function UserController(callback) {
 UserController.doLogin = function(username, password) {
   var username = username || jQuery('#username').val();
   var password = password || jQuery('#password').val();
-  if( ! new User().login(username, password)) return window.location.reload();
-  return html.navigate('/#user/profile/' + username);
+  if( ! new User().login(username, password)) return html.navigate(_routes.public_index);
+  return html.navigate('#user/profile/' + username);
 }
 
 UserController.doRegister = function() {
@@ -20,7 +20,7 @@ UserController.doRegister = function() {
   var password = jQuery('#password').val();
   new User(username, password).login(username, password);
   this.doLogin(username, password);
-  return html.navigate('/#user/profile/' + username);
+  return html.navigate('#user/profile/' + username);
 }
 
 UserController.prototype.profile = function(callback) {
@@ -34,5 +34,5 @@ UserController.prototype.profile = function(callback) {
 UserController.prototype.logout = function() {
   var lastLogin = new User().get('lastLogin');
   new User().logout(lastLogin);
-  return html.navigate('/#user/login');
+  return html.navigate('#user/login');
 }

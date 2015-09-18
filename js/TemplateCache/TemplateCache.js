@@ -30,8 +30,9 @@ TemplateCache.prototype.getTemplate = function(templateId, callback) {
 }
 
 TemplateCache.prototype._singleRequest = function(templateId, callback) {
-  var self = this;
-  if(typeof self.get(templateId) === "string") return callback(self.get(templateId));
+  var self = this,
+      cacheHit = self.get();
+  if(typeof cacheHit === "string") return callback(cacheHit);
   return self._requestTemplateWithAjax(templateId, callback);
 }
 
@@ -52,7 +53,7 @@ TemplateCache.prototype._requestTemplateWithAjax = function (templateId, callbac
   var self = this;
   var signal = Signal.ajaxRequest(C.TemplateCache.ajaxRequest);
   signal.on();
-  jQuery.get(templateId).done(function(template) {
+  jQuery.get(absolute_root_path() + templateId).done(function(template) {
     self.set(templateId, template); 
     signal.off(); if(! off) callback(template);
   })

@@ -9,7 +9,7 @@ function BGPainter() {
 }
 
 BGPainter.prototype._getElements = function(callback) {
-  $.get('/js/BGPainter/elements.json').done(function(data) {
+  $.get(absolute_root_path() + 'js/BGPainter/elements.json').done(function(data) {
     return callback(data);
   })
 }
