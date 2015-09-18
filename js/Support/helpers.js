@@ -11,7 +11,7 @@ Array.prototype.base = function() {
 }
 
 function absolute_root_path() {
-  return '/htdocs.old2/';
+  return '/astronautic/';
 }
 
 Array.prototype.getRandom = function(amount) {
